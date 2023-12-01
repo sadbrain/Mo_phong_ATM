@@ -1,0 +1,6 @@
+Người gủi: Nhung
+Hình thức: Rút tiền
+Số tiền: 100.000 ₫
+Ngày thực hiện giao dịch: 30/11/2023 18:09:04
+Số tiền còn lại: 23.921.111 ₫
+Hello, this is a sample text written to a file 2.

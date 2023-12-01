@@ -1,0 +1,6 @@
+Người gủi: Xuom
+Người nhận: Nhung
+Hình thức: Chuyển khoản
+Số tiền: $1,111,111.00
+Ngày thực hiện giao dịch: 30/11/2023 18:05:11
+Số tiền còn lại: 23888889

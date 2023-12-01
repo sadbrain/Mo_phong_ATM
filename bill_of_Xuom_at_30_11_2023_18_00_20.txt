@@ -1,0 +1,6 @@
+Người gủi: Xuom
+Hình thức: Rút tiền
+Số tiền: 100000
+Ngày thực hiện giao dịch: 30_11_2023_18_00_20
+Số tiền còn lại: 25100000
+Hello, this is a sample text written to a file 2.
